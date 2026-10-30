@@ -1,0 +1,22 @@
+{
+  "wheel_id": 544,
+  "structure": "umbrella",
+  "slug": "kitchenrenobrisbane-104",
+  "project": "kitchen-renovations-brisbane-warranty-214a486fa4df379e542a07bb0",
+  "parent_t1_ref": "kitchenrenobrisbane-151",
+  "node_role": "feeder",
+  "money_target": "kitchenrenobrisbane.com.au",
+  "primary_kw": "kitchen renovations brisbane warranty",
+  "intended_url": "https://sitesau.github.io/kitchenrenobrisbane-104/",
+  "tier": "T2",
+  "writeback_nonce": "9284ca024e6da52f",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-brisbane-ccb532dc8d2628340308357e4470bd667e/",
+      "anchor": "Kitchen Renovations Brisbane: A Scope-First Workbook",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
